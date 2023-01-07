@@ -1,1 +1,2 @@
-# Landing_Page_Bootcamp
+# Landing Page Bootcamp
+First project of Bootcamp - HTML + CSS
